@@ -11,24 +11,8 @@ Static clinical web application designed for the risk stratification of cryptoco
 
 ---
 
-## 📊 Clinical Score Variables
-
-| Clinical Variable | Points | Brief Description |
-| :--- | :---: | :--- |
-| **Lymphopenia** | **+5 pts** | Absolute lymphocyte count < 1,000 cells/µL. |
-| **Kidney transplant rejection** | **+4 pts** | History of allograft rejection episode. |
-| **Immunosuppression intensification** | **+3 pts** | Steroid pulses, increased dose, plasmapheresis, and/or anti-thymocyte globulin. |
-| **Non-thymoglobulin induction** | **+2 pts** | Induction therapy using agents other than anti-thymocyte globulin. |
-| **Male gender** | **+1 pt** | Biological male sex assigned at birth. |
-| **Antimetabolites** | **-1 pt** | Concurrent use of antimetabolite medications (Mycophenolate or Azathioprine). |
-
----
-
 ## 📈 Risk Stratification
-- **≤ 2 pts (Low Risk):** Estimated probability of Cryptococcosis < 8.9%, with 95% sensitivity.
-- **3 - 7 pts (Intermediate Risk):** Estimated probability between 8.9%–39.5%, sensitivity of 66%–95%, and specificity between 43%–85%.
-- **8 - 14 pts (High Risk):** Estimated probability between 39%–85% with specificity > 85.5%.
-- **15 pts (Very High Risk - ⚠️ Alert!):** Estimated probability > 85% with 98.4% specificity.
+-Low Risk), (Intermediate Risk), (High Risk),(Very High Risk)
 
 ---
 
@@ -41,7 +25,7 @@ Static clinical web application designed for the risk stratification of cryptoco
 
 ## 🌐 Live Link (GitHub Pages)
 You can test the web application directly online at the following link:  
-👉 [View Live Application](https://your-username.github.io/repository-name/) *(Replace this link with your GitHub Pages URL)*
+👉 [View Live Application](https://jhongert-aa.github.io/cryptococcus-score/) 
 
 ---
 
